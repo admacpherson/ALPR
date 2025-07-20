@@ -9,3 +9,4 @@ Based off the work of Femi Oladeji. Many thanks to him for his insightful tutori
 Tutorial: [Medium.com](https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)<br>
 Repository: [GitHub](https://github.com/femioladeji/License-Plate-Recognition-Nigerian-vehicles/tree/master)<br>
 GitHub Profile [femiolaedji](https://github.com/femioladeji)<br>
+Dataset: [Kaggle.com](https://www.kaggle.com/datasets/fareselmenshawii/large-license-plate-dataset?resource=download-directory)
